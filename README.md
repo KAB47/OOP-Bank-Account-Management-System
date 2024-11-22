@@ -5,6 +5,19 @@ The **Bank Account Management System** is a Python program designed to simulate 
 
 ---
 
+## Instructions To Use
+
+1. **Download the 'main.py' file**
+- Run in your IDE or terminal by
+  ```bash
+     git clone https://github.com/KAB47/OOP-Bank-Account-Management-System.git
+     cd OOP-Bank-Account-Management-System
+     ```
+2. **Run the Program**
+   - Run the application using your preferred IDE or the command line interface:
+     ```bash
+     python main.py
+     ```
 ## Features
 - **Transfer Funds**: Transfer money between valid accounts while ensuring sufficient balance.
 - **Deposit Money**: Deposit funds into a valid account.
