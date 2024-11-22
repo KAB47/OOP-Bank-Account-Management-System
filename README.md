@@ -34,7 +34,7 @@ The programme's only class simulates the banking system, managing accounts and t
 ### Methods
 
 #### `__init__(balance: list[int])`
-- Initializes the `Bank` instance with a list of account balances.
+- Initialises the `Bank` instance with a list of account balances.
 
 #### `is_valid_account(account: int) -> bool`
 - Checks if an account number is valid.
@@ -57,7 +57,7 @@ The programme's only class simulates the banking system, managing accounts and t
 
 ```python
 # Create a bank instance
-bank = Bank([500, 300, 200]) # 
+bank = Bank([500, 300, 200]) This is our starting balance for accounts 1,2 and 3.
 
 # Deposit money
 print("Deposit:", bank.deposit(1, 100))
