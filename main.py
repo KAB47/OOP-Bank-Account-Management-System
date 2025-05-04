@@ -6,7 +6,7 @@ class Bank:
 
     def __init__(self, balance):
         """
-        Initialize the Bank with a list of account balances.
+        Initialise the Bank with a list of account balances.
 
         Args:
             balance (list): A list of integers representing the balance of each account.
